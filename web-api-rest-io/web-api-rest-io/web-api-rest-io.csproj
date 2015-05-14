@@ -60,6 +60,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bl\CopiaDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,7 +72,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Bl\" />
     <Folder Include="Dao\" />
     <Folder Include="Facade\" />
     <Folder Include="Module\" />

@@ -12,8 +12,8 @@ namespace web_api_rest_io.Bl
         /// </summary>
         /// <returns></returns>
         public string metodo() {
-
-            return "vacio";
+            var datos = "";
+            return datos;
         }
     }
 }
