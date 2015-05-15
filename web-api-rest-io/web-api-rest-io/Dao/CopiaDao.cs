@@ -12,15 +12,18 @@ namespace web_api_rest_io.Dao
         /// Andrés naranjo 2015-01-01 devuelve una lista de la entidad copia
         /// </summary>
         /// <returns></returns>
-        public List<copia> BuscarDatosCopia()
+        public List<copia> BuscarDatosCopia(long cedula)
         {
 
 
             using (DatosdesarrolloEntities bd = new DatosdesarrolloEntities())
             {
-                return bd.copias.ToList();
+                return bd.copias.Where(afn=> cedula == 0 ? afn.cedulasociado== afn.cedulasociado : afn.cedulasociado== cedula).ToList();
             }
 
         }
+
+
+
     }
 }

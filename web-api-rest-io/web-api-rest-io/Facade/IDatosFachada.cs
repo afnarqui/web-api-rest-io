@@ -14,6 +14,6 @@ namespace web_api_rest_io.Facade
         /// </summary>
         /// <returns></returns>
         [OperationContract]
-        System.Collections.Generic.List<web_api_rest_io.Module.copia> BuscarDatosCopia();
+        System.Collections.Generic.List<web_api_rest_io.Module.copia> BuscarDatosCopia(long cedula);
     }
 }

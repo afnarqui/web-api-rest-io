@@ -13,9 +13,9 @@ namespace web_api_rest_io.Facade
         /// Andrés naranjo 2015-01-01 devuelve una lista de la entidad copia
         /// </summary>
         /// <returns></returns>
-        public List<copia> BuscarDatosCopia()
+        public List<copia> BuscarDatosCopia(long cedula)
         {
-            return new CopiaBl().BuscarDatosCopia().ToList();
+            return new CopiaBl().BuscarDatosCopia(cedula).ToList();
         }
 
         
