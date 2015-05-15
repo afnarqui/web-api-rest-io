@@ -15,5 +15,15 @@ namespace web_api_rest_io.Bl
             var datos = "";
             return datos;
         }
+
+
+        /// <summary>
+        /// andres naranjo 2015-01-01 implemento metodo guardar 
+        /// </summary>
+        public void guardar() {
+
+            string valor = string.Empty;
+
+        }
     }
 }
