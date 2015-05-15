@@ -1,0 +1,9 @@
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\web-api-res-io-wcf.dll
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\web-api-res-io-wcf.pdb
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\obj\Debug\web-api-res-io-wcf.dll
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\obj\Debug\web-api-res-io-wcf.pdb
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\obj\Debug\web-api-res-io-wcf.csprojResolveAssemblyReference.cache
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\web-api-rest-io.dll
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\EntityFramework.dll
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\web-api-rest-io.pdb
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-res-io-wcf\bin\EntityFramework.xml

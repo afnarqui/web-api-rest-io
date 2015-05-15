@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace web_api_rest_io.Module
+namespace web.Module
 {
     using System;
     using System.Collections.Generic;

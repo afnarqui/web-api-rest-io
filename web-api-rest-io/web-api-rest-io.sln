@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api-rest-io", "web-api-rest-io\web-api-rest-io.csproj", "{31C7586E-2757-4D0D-8D1C-2B39A612A115}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web-api-rest-io\web.csproj", "{31C7586E-2757-4D0D-8D1C-2B39A612A115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api-res-io-wcf", "web-api-res-io-wcf\web-api-res-io-wcf.csproj", "{3F2E421B-AC2A-4A5B-989C-E806CC7C2019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{31C7586E-2757-4D0D-8D1C-2B39A612A115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31C7586E-2757-4D0D-8D1C-2B39A612A115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31C7586E-2757-4D0D-8D1C-2B39A612A115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2E421B-AC2A-4A5B-989C-E806CC7C2019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2E421B-AC2A-4A5B-989C-E806CC7C2019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2E421B-AC2A-4A5B-989C-E806CC7C2019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2E421B-AC2A-4A5B-989C-E806CC7C2019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

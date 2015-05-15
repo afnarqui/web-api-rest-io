@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using web_api_rest_io.Module;
+using web.Module;
 
-namespace web_api_rest_io.Dao
+namespace web.Dao
 {
     public class CopiaDao
     {

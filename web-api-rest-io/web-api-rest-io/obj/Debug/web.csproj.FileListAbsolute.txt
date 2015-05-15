@@ -1,11 +1,7 @@
-D:\net\2013\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\web-api-rest-io.dll
-D:\net\2013\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\web-api-rest-io.pdb
-D:\net\2013\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web-api-rest-io.csprojResolveAssemblyReference.cache
-D:\net\2013\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web-api-rest-io.dll
-D:\net\2013\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web-api-rest-io.pdb
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\web-api-rest-io.dll
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\web-api-rest-io.pdb
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\EntityFramework.dll
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\bin\EntityFramework.xml
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web-api-rest-io.dll
 E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web-api-rest-io.pdb
+E:\web-api-rest\web-api-rest-io\web-api-rest-io\web-api-rest-io\obj\Debug\web.csprojResolveAssemblyReference.cache

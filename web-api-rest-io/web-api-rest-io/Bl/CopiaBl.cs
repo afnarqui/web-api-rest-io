@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using web_api_rest_io.Dao;
-using web_api_rest_io.Module;
+using web.Dao;
+using web.Module;
 
-namespace web_api_rest_io.Bl
+namespace web.Bl
 {
     public class CopiaBl
     {
